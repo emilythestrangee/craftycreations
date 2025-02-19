@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #d4a676;
+    --primary: beige;
     --secondary: #545454;
     --light: #FDF5EB;
     --dark: #1E1916;
@@ -310,9 +310,6 @@
 
 .project-item .project-title {
     position: absolute;
-    top: auto;
-    right: 1rem;
-    bottom: 1rem;
     left: 1rem;
     padding: 1rem;
     text-align: center;
